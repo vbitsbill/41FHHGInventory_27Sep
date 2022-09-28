@@ -14,6 +14,3 @@ class CustomProductLabelLayout(models.TransientModel):
         '4x8': 'set default'
     }
     )
-
-    def action_print_label(self):
-        return True

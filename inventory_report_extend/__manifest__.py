@@ -13,7 +13,6 @@
     'version': '15.0',
     'data': [
         'security/ir.model.access.csv',
-        'views/product_views.xml',
         'report/product_product_templates.xml'
     ],
     'installable': True,
